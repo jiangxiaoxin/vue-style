@@ -8,7 +8,6 @@
     "build": "vite build",
     "preview": "vite preview",
     "prepare": "husky",
-    "format": "prettier --write ."
   },
   "dependencies": {
     "vue": "^3.5.13"
@@ -21,6 +20,6 @@
     "vite": "^6.3.1"
   },
   "lint-staged": {
-    "src/**/*.{js,ts,vue}": ["prettier --write", "git add"]
+    "src/**/*.{js,ts,vue}": ["prettier --write"]
   }
 }
