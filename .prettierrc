@@ -1,0 +1,12 @@
+{
+  "useTabs": false,
+  "tabWidth": 2,
+  "printWidth": 120,
+  "semi": false,
+  // 末尾加分号
+  "singleQuote": true,
+  // 是否单引号
+  "trailingComma": "none"
+  //最后一个元素后添加尾随逗号
+}
+
