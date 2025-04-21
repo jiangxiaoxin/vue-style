@@ -9,14 +9,4 @@ const mike = {
   age: 18
 };
 
-
-var a = {
-
-
-
-
-
-
-
-
-}
+var a = {};
