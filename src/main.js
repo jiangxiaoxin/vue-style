@@ -11,12 +11,4 @@ const mike = {
 
 var a = {
   name: "aaa"
-
-
-
-
-
-
-
-
 }
