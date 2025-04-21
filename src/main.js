@@ -12,3 +12,9 @@ const mike = {
 var a = {
   name: "aaa"
 }
+
+var b = {
+  name: "bbb"
+}
+
+console.log(mike, a, b)
