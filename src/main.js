@@ -17,4 +17,4 @@ var b = {
   name: "bbb"
 }
 
-console.log(mike, a, b)
+console.log(mike, a, b /*c, d*/)
