@@ -20,6 +20,8 @@
     "vite": "^6.3.1"
   },
   "lint-staged": {
-    "*.{js,ts,vue}": ["prettier --write"]
+    "*.{js,ts,json,vue}": [
+      "prettier --write"
+    ]
   }
 }
