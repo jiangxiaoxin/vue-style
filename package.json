@@ -21,8 +21,6 @@
     "vite": "^6.3.1"
   },
   "lint-staged": {
-    "*.{vue}": [
-      "prettier --write"
-    ]
+    "src/**/*.{js,ts,vue}": ["prettier --write", "git add"]
   }
 }
