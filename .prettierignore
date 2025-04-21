@@ -1,0 +1,14 @@
+# ignore list
+
+node_modules
+
+public
+
+.prettierrc
+.vscode
+.idea
+
+package.json
+package-lock.json
+
+vite.config.js
