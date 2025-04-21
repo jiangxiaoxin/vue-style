@@ -1,10 +1,13 @@
 # https://editorconfig.org
+
+
+
 root = true
 
 [*]
 charset = utf-8
-end_of_line = lf
+end_of_line = crlf
 indent_size = 2
 indent_style = space
-insert_final_newline = true
-max_line_length = 80
+insert_final_newline = true # true---ide 会在保存时自动在最后默认添加一个空行，
+max_line_length = 80 # ide 会标记一根线作为一行最长的提示
